@@ -1,0 +1,4 @@
+
+nombre_entorno/
+.venv/
+__pycache__/
