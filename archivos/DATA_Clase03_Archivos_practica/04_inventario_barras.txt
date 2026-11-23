@@ -1,0 +1,11 @@
+sku|articulo|almacen|stock_actual|coste_unitario
+PRD-101|Servidor Rack 2U|Madrid|4|1850.0
+PRD-102|Switch Gigabit 24P|Madrid|18|210.0
+PRD-103|Router Empresarial|Barcelona|12|320.0
+PRD-104|Punto Acceso WiFi 6|Valencia|25|145.0
+PRD-105|SAI 1500VA|Madrid|9|260.0
+PRD-106|Armario Rack 42U|Sevilla|3|690.0
+PRD-107|Panel Parcheo Cat6|Barcelona|30|42.0
+PRD-108|Bobina Cable UTP 305m|Valencia|14|115.0
+PRD-109|Tarjeta Red 10GbE|Madrid|22|98.0
+PRD-110|Módulo SFP+ Fibra|Sevilla|40|34.5

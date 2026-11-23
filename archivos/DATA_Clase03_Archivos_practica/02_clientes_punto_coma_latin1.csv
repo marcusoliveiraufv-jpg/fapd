@@ -1,0 +1,13 @@
+id_cliente;nombre;apellidos;ciudad;segmento;gasto_anual
+CLI-001;María;García López;Madrid;Premium;2450.5
+CLI-002;José Ángel;Peña Martínez;Málaga;Estándar;620.0
+CLI-003;Lucía;Muñoz Sánchez;A Coruña;Premium;3180.75
+CLI-004;Iñaki;Etxebarria Goikoetxea;San Sebastián;Empresa;5400.0
+CLI-005;Begoña;Núñez Fernández;Logroño;Estándar;490.2
+CLI-006;Sofía;Pérez Castaño;Cádiz;Premium;1890.0
+CLI-007;Álvaro;Ibáñez Ruiz;León;Empresa;4120.3
+CLI-008;Nuria;Díaz Ordóñez;Gijón;Estándar;730.8
+CLI-009;Óscar;Gómez Bolaños;Córdoba;Premium;2910.0
+CLI-010;Inés;Álvarez Yáñez;Ávila;Estándar;510.4
+CLI-011;Raúl;Suárez Cañizares;Almería;Empresa;6200.0
+CLI-012;Mónica;Jiménez Alcañiz;Cáceres;Premium;2150.6

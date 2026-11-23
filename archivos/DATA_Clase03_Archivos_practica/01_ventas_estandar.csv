@@ -1,0 +1,16 @@
+id_venta,fecha,producto,categoria,unidades,precio_unitario
+1001,2026-10-01,Portátil Pro 14,Ordenadores,2,1150.0
+1002,2026-10-02,Ratón Inalámbrico,Periféricos,10,29.95
+1003,2026-10-02,Monitor 27 4K,Monitores,3,349.0
+1004,2026-10-03,Teclado Mecánico,Periféricos,5,89.5
+1005,2026-10-04,Auriculares ANC,Audio,4,129.0
+1006,2026-10-05,Webcam HD,Periféricos,8,54.0
+1007,2026-10-06,Docking Station,Accesorios,3,145.0
+1008,2026-10-07,SSD Externo 1TB,Almacenamiento,6,95.0
+1009,2026-10-08,Silla Ergonómica,Mobiliario,2,280.0
+1010,2026-10-09,Alfombrilla XL,Accesorios,15,18.5
+1011,2026-10-10,Portátil Air 13,Ordenadores,1,990.0
+1012,2026-10-11,Cable USB-C 2m,Accesorios,20,12.0
+1013,2026-10-12,Micrófono USB,Audio,4,79.0
+1014,2026-10-13,Lámpara Escritorio,Mobiliario,7,35.0
+1015,2026-10-14,Soporte Portátil,Accesorios,9,24.9

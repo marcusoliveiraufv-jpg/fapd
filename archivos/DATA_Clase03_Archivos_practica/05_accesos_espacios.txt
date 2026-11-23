@@ -1,0 +1,9 @@
+usuario        rol          departamento   horas_conexion   tickets_resueltos
+ana.gomez      Analista     Datos          38.5             24
+luis.perez     Ingeniero    Sistemas       41.0             31
+carla.ruiz     Cientifica   IA             39.0             19
+david.sanz     Soporte      IT             40.0             47
+elena.mora     Gestora      Producto       37.5             15
+pablo.gil      Analista     Finanzas       40.5             28
+marta.vega     Ingeniera    Datos          42.0             33
+jorge.ortiz    Soporte      IT             36.0             41
