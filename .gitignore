@@ -1,4 +1,13 @@
-
+# Ambientes virtuais
 nombre_entorno/
 .venv/
+
+# Cache do Python
 __pycache__/
+*.py[cod]
+
+# Arquivos de sistema do macOS (como o .DS_Store que subiu no último commit)
+.DS_Store
+
+# Checkpoints temporários do Jupyter
+.ipynb_checkpoints/
